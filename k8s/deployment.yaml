@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: fabricioveronez/aplicacao-exemplo
+        image: fabricioveronez/primeira-pipeline-cicd
         ports:
         - containerPort: 5000
 --- 
